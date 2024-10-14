@@ -1,2 +1,1 @@
-# C-
-Sample C++ codes 
+Sample Machine Learning and Deep Learning Projects 
